@@ -19,27 +19,53 @@
             "scale": 0.79,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 206.9620253164557,
-                "y": 405.6962025316455
+                "x": 776.5822784810126,
+                "y": 789.8734177215189
             }
+        },
+        "level_02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9000710227272727,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 699.3892527420502,
+                "y": 532.1802256766354
+            }
+        },
+        "pigs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pigsk.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "plants.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
-    "last.imagePath": "/Users/devis/Desktop/Dart/adventure/assets/images/Terrain",
-    "map.height": 44,
+    "last.imagePath": "/Users/devis/Downloads/Kings and Pigs/Sprites/02-King Pig",
+    "map.height": 96,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 24,
+    "map.width": 96,
     "openFiles": [
     ],
     "project": "Adventure.tiled-project",
     "recentFiles": [
+        "pigs.tsx",
+        "pigsk.tsx",
+        "plants.tsx",
         "Adventure.tsx",
         "level_01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
-        "height": 16,
-        "width": 16
+        "height": 28,
+        "width": 38
     }
 }
